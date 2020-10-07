@@ -1,2 +1,7 @@
-package com.equp.controller;public class RegistrationController {
+package com.equp.controller;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class RegistrationController {
 }
